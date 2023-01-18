@@ -1,6 +1,6 @@
 [Back](./readme.md)
 # Module Introduction
-## Lecture 1 2023-01-16
+###### Lecture 1 - 2023-01-16
 - Philosophy and History of Artificial Intelligence (weeks 1-2)
 - Problem Solving & Search (weeks 3-4)
 - Logic & Knowledge Representation (weeks 5-6)
