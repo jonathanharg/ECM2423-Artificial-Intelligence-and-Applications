@@ -1,5 +1,5 @@
 [Back](./readme.md)
-#
+# History of Artificial Intelligence
 ###### Lecture 2 - 2023-01-18
 # Definition of Aritificial intelligence
 - Thinking vs Acting
